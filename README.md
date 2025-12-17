@@ -1,6 +1,6 @@
 # Hi there, I'm Moh Ali 👋
 
-![GitHub Banner](https://raw.githubusercontent.com/mohali/mohali/main/images/e3b8505b-c601-43ec-8813-15e3e2ff20b9.png)
+
 
 ## 🚀 About Me
 I'm a Senior Data Engineer with 8+ years of experience in **data engineering**, **cloud technologies**, and the **healthcare sector**. I specialize in building **scalable data pipelines**, **ETL systems**, and **data governance** solutions. With a focus on tools like **Apache Spark**, **AWS**, and **SQL**, I’ve worked on high-impact projects that drive **data accessibility**, improve **business decision-making**, and ensure **HIPAA compliance**.
@@ -144,4 +144,4 @@ Feel free to reach out to me for **collaborations**, **consulting**, or **open-s
 
 ---
 
-![Moh Ali Banner](https://raw.githubusercontent.com/mohali/mohali/main/images/e3b8505b-c601-43ec-8813-15e3e2ff20b9.png)
+
