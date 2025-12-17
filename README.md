@@ -117,15 +117,23 @@ I'm a Senior Data Engineer with 8+ years of experience in **data engineering**, 
 
 ### 🌐 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/mohali)
-- [Personal Website](http://mohali.com)
+
 - [Email](mailto:mohali51485@gmail.com)
+---
 
-## 💻 GitHub Stats
-![Moh Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohali&count_private=true&show_icons=true&theme=radical&hide_title=true)
+## 🎯 Fun Fact
+- **Favorite Programming Language**: Python
+- **Favorite Data Engineering Tool**: Apache Spark
 
-## 📈 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohali&langs_count=10&theme=radical&hide=html)
+![Coder's Badge](https://img.shields.io/badge/Code%20with%20Love-%E2%99%A5-red)
+
+---
+
+## 🎤 Quotes
+> "Data is the new oil." – Clive Humby
+
+> "Without data, you're just another person with an opinion." – W. Edwards Deming
+
 
 ---
 
