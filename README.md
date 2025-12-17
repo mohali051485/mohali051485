@@ -1,6 +1,6 @@
 # Hi there, I'm Moh Ali 👋
 
-![GitHub Banner](https://raw.githubusercontent.com/mohali/mohali/main/images/your-banner-image.png)
+![GitHub Banner](https://raw.githubusercontent.com/mohali/mohali/main/images/e3b8505b-c601-43ec-8813-15e3e2ff20b9.png)
 
 ## 🚀 About Me
 I'm a Senior Data Engineer with 8+ years of experience in **data engineering**, **cloud technologies**, and the **healthcare sector**. I specialize in building **scalable data pipelines**, **ETL systems**, and **data governance** solutions. With a focus on tools like **Apache Spark**, **AWS**, and **SQL**, I’ve worked on high-impact projects that drive **data accessibility**, improve **business decision-making**, and ensure **HIPAA compliance**.
@@ -70,42 +70,6 @@ I'm a Senior Data Engineer with 8+ years of experience in **data engineering**, 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Looker](https://img.shields.io/badge/Looker-1F4C78?style=flat&logo=looker&logoColor=white)
-
-#### Data Modeling:
-- **Star Schema**, **Snowflake Schema**, **Dimensional Modeling**
-
-#### Healthcare Domain Expertise:
-- **HIPAA Compliance**, **HL7**, **FHIR**, **Health Data Privacy**
-
-#### Machine Learning & Analytics:
-- **Predictive Analytics**, **Statistical Analysis**, **A/B Testing**, **Data-driven Decision Making**
-
-#### Programming & Scripting:
-- **Python**, **SQL**, **Scala**, **Java**, **Shell**
-
-#### Big Data & Processing:
-- **Apache Spark**, **Hadoop**, **Flink**, **Beam**, **MapReduce**
-
-#### Streaming & Messaging:
-- **Kafka**, **Kinesis**, **Pub/Sub**
-
-#### Data Warehousing:
-- **Snowflake**, **Redshift**, **BigQuery**, **Azure Synapse**
-
-#### MLOps & DataOps:
-- **MLflow**, **Databricks**, **SageMaker**, **Vertex AI**, **Feast**, **Great Expectations**
-
-#### Cloud Platforms (Extended):
-- **AWS** (S3, Glue, EMR, Redshift, Lambda, Athena), **Azure** (ADF, Databricks, Event Hubs, Synapse), **GCP** (BigQuery, Dataflow, Vertex AI, Pub/Sub)
-
-#### Databases (Extended):
-- **PostgreSQL**, **MySQL**, **MongoDB**, **Cassandra**, **DynamoDB**
-
-#### Infrastructure & DevOps:
-- **Terraform**, **Docker**, **Kubernetes**, **Helm**, **GitHub Actions**, **ArgoCD**, **Jenkins**
-
-#### Observability & Monitoring:
-- **Prometheus**, **Grafana**, **CloudWatch**, **OpenTelemetry**
 
 ### 📊 Latest Projects
 
@@ -180,4 +144,4 @@ Feel free to reach out to me for **collaborations**, **consulting**, or **open-s
 
 ---
 
-![Moh Ali Banner](https://raw.githubusercontent.com/mohali/mohali/main/images/your-banner-image.png)
+![Moh Ali Banner](https://raw.githubusercontent.com/mohali/mohali/main/images/e3b8505b-c601-43ec-8813-15e3e2ff20b9.png)
