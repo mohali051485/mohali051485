@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I'm a Senior Data Engineer with 8+ years of experience in **data engineering**, **cloud technologies**, and the **healthcare sector**. I specialize in building **scalable data pipelines**, **ETL systems**, and **data governance** solutions. With a focus on tools like **Apache Spark**, **AWS**, and **SQL**, I’ve worked on high-impact projects that drive **data accessibility**, improve **business decision-making**, and ensure **HIPAA compliance**.
+I am a Senior Data Engineer with extensive experience in data engineering, cloud technologies, and the healthcare sector. I specialize in building scalable data pipelines, ETL systems, and data governance solutions. With expertise in tools like Apache Spark, AWS, and SQL, I have contributed to high-impact projects that enhance data accessibility, improve business decision-making, and ensure HIPAA compliance..
 
 ### 🛠️ Technical Skills
 
